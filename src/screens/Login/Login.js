@@ -42,7 +42,7 @@ class Login extends Component {
                 <div className="container" align="center">
                     <div className="row">
                         <div className="col-12">
-                            {/* <img className="img-fluid logo" src="https://vife.dev/assets/images/logo.png" /> */}
+                            <img className="img-fluid logo" src="https://vife.dev/assets/images/logo.png" />
                             <div className="card card-container" align="left">
                                 <div className="card-body login-card">
                                     <p className="text-center login-text" style={{marginTop: 30}}>Login</p>
