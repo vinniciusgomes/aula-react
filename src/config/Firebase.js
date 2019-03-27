@@ -4,12 +4,12 @@ import firebase from 'firebase';
 
 // Configurando informações de acesso do Firebase
 const config = {
-    apiKey: "AIzaSyDjtR5MtMX98Rnh35N09bftgSfxIhQSDeQ",
+    apiKey: "",
     authDomain: "react-auth-study.firebaseapp.com",
     databaseURL: "https://react-auth-study.firebaseio.com",
     projectId: "react-auth-study",
     storageBucket: "react-auth-study.appspot.com",
-    messagingSenderId: "558660457976"
+    messagingSenderId: ""
 };
 
 // Iniciando o app com o firebase
